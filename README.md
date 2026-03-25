@@ -1,1 +1,1 @@
-[GR4 GUI Demo](/gr4_gui/index.html)
+[GR4 GUI Demo](https://haakov.github.io/gr4_gui/)
